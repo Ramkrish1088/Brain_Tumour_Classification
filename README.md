@@ -47,6 +47,6 @@ By uploading a brain MRI image, the model predicts which tumor category the imag
 - **Model File:** `MobileNetV2_best.pkl`  
 - **Input Size:** 224×224 pixels  
 - **Framework:** TensorFlow  
-- **Accuracy:** ≈ 95% (on test dataset)
+
 
 ---
